@@ -1,4 +1,4 @@
-# 🛡️ AWS Security Incident Response
+# 🛡️ AWS Security Incident Response Overview
 
 ![Course](https://img.shields.io/badge/AWS-Security%20Incident%20Response-orange?style=flat-square&logo=aws)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square&logo=verizon)
